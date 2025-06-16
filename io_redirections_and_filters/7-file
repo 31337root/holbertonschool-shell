@@ -1,5 +1,2 @@
 #!/bin/bash
 echo "Best School" > "\*\\\\'\"Best School\"\'\\\\*$\?\*\*\*\*\*:)"
-# output '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
-# ls expected result '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
-# Instructions \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
